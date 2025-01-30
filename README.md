@@ -1,7 +1,7 @@
-#User Authentication System
+##User Authentication System
 A Simple Login page 
 
-#Installation 
+##Installation 
 1. Clone the respository
    git clone https://github.com/slyvai/project-login-auth.git
 2. Navigate to the project directory:
