@@ -1,0 +1,41 @@
+body {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(216, 210, 169);
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  top: -20px;
+} Link {
+  color: orange;
+}
+
+.forms-login {
+  background-color: white;
+  color: rgb(19, 30, 94);
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.container-dashboard {
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+} 
+h2 {
+  font-size: 30px;
+  color: rgb(129, 84, 30);
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: orange;
+  color: white;
+}

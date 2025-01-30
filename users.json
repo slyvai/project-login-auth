@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "b914",
+      "username": "slyviafam",
+      "email": "Slyviafams@gmail.com",
+      "password": "asdfghjk"
+    },
+    {
+      "id": "9901",
+      "username": "aaaaaaa",
+      "email": "Slyviafams@gmail.com",
+      "password": "asdfghjk"
+    },
+    {
+      "id": "b5c3",
+      "username": "slyviafams",
+      "email": "Slyviafams@gmail.com",
+      "password": "asdfghjk"
+    },
+    {
+      "id": "ebf1",
+      "username": "aaaaaaaa",
+      "email": "adsnjsd@gmail.com",
+      "password": "asdfghjk"
+    },
+    {
+      "id": "5627",
+      "username": "slyviafam",
+      "email": "Slay@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "701b",
+      "username": "slyviafam",
+      "email": "Slyviafams@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
